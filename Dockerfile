@@ -17,6 +17,7 @@ RUN set -eux; \
       libgl1-mesa-dri libgl1-mesa-glx libglvnd0 libegl1 libglx0 mesa-utils \
       ros-humble-cv-bridge ros-humble-robot-state-publisher \
       ros-humble-xacro \
+      x11-apps x11-utils xdotool wmctrl \
     "; \
     success=0; \
     for attempt in 1 2 3 4 5 6 7 8 9 10; do \
