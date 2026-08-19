@@ -190,7 +190,7 @@ gh auth login
 3. **Login with a web browser** (또는 Personal Access Token)
 4. 완료 후: `gh auth status` → `Logged in to github.com as <you>`
 
-> private 레포·`gh pr create`는 **로그인된 계정이 `ahnsh03/2026-SMH`에 push/PR 권한**이 있어야 합니다.  
+> private 레포·`gh pr create`는 **로그인된 계정이 `INHA-AIM/2026-SMH`에 push/PR 권한**이 있어야 합니다.  
 > 초대가 안 되어 있으면 팀장에게 collaborator 추가를 요청하세요.
 
 #### 일상 명령
@@ -418,7 +418,7 @@ ros2 launch inference auto_driving.launch.py
 
 ```bash
 cd ~
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 
@@ -434,7 +434,7 @@ ln -sfn ~/D-Racer-Kit external/D-Racer-Kit
 
 ```bash
 cd ~
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ./scripts/board_sync.sh --no-pull   # init_workspace.sh가 D-Racer-Kit을 clone

@@ -91,7 +91,7 @@ docker compose version
 ```bash
 # 상위 프로젝트 구조 (PC)
 cd ~/projects/2026-seame-hackathon
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ```

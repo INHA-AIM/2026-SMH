@@ -16,7 +16,7 @@
 | 참가 | 27팀, 117명 |
 | 주제 | AI 네이티브 스케일카 자율주행 챌린지 |
 | 문의 | 국민대 미래자동차사업단 김민경 (02-910-6683, dana231920@kookmin.ac.kr) |
-| 팀 GitHub | https://github.com/ahnsh03/2026-SMH.git |
+| 팀 GitHub | https://github.com/INHA-AIM/2026-SMH.git |
 | 정기 회의 | 월요일 15시 |
 
 ---
@@ -195,7 +195,7 @@
 | 자료 | 링크 |
 |------|------|
 | D-Racer-Kit (공식) | https://github.com/topst-development/D-Racer-Kit/tree/release/v1.0.0 |
-| 팀 GitHub | https://github.com/ahnsh03/2026-SMH.git |
+| 팀 GitHub | https://github.com/INHA-AIM/2026-SMH.git |
 | 참고 영상 (Google Drive) | https://drive.google.com/file/d/1QpnQdkiiYtEs1k2Ll4sRCjBB_1pBNbmG/view |
 | 작년 홍보영상 | 유튜브 없음, 파일만 존재 (추후 공지 예정) |
 | C920e 카메라 스펙 | [hardware-camera.md](./hardware-camera.md) |

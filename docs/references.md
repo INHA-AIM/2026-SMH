@@ -12,7 +12,7 @@
 
 | 자료 | 링크 |
 |------|------|
-| 팀 GitHub | https://github.com/ahnsh03/2026-SMH |
+| 팀 GitHub | https://github.com/INHA-AIM/2026-SMH |
 | PC 로컬 영상·트랙 자료 (`data/`, Git 밖) | WSL: `~/projects/2026-seame-hackathon/data/` |
 | OUT 직선·코너·S자 보조지표 | [out-route-reference.md](./out-route-reference.md) · `data/out_best_route/` |
 | PC Docker 개발 환경 | [dev-environment.md](./dev-environment.md) |

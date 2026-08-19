@@ -19,7 +19,7 @@
 
 ```bash
 cd ~
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 
@@ -35,7 +35,7 @@ ln -sfn ~/D-Racer-Kit external/D-Racer-Kit
 
 ```bash
 cd ~
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ./scripts/board_sync.sh --no-pull

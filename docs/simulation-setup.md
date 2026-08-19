@@ -24,7 +24,7 @@
 | **코스 색** | Out=**흰만** · In=**노란 우선** — [lane-occlusion-fork-strategy.md §0](./lane-occlusion-fork-strategy.md) |
 
 ```bash
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH && chmod +x scripts/*.sh
 ./scripts/dev_container.sh build
 ./scripts/dev_container.sh install-gazebo   # 최초 1회
@@ -130,7 +130,7 @@ echo $DISPLAY    # 보통 :0 (WSLg)
 ## 3. 최초 설치 (처음 clone한 팀원)
 
 ```bash
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ```

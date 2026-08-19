@@ -4,7 +4,7 @@
 
 [SEA:ME 해커톤] 팀 GitHub + 협업 구조 업데이트
 
-🔗 https://github.com/ahnsh03/2026-SMH
+🔗 https://github.com/INHA-AIM/2026-SMH
 
 【변경 사항】
 - MainPlanner 통합 (/control = inference_node 하나) · mask_p + 표지 게이트 Out 갈림
@@ -19,7 +19,7 @@
 - MainPlanner·In/Out: 양서준 → pipeline.py + config/main_planner.yaml
 
 【D3-G 보드 — 최초】
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ./scripts/board_sync.sh --no-pull

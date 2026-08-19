@@ -23,7 +23,7 @@
 **`~/D-Racer-Kit`이 이미 있는 경우 (Case A)**
 
 ```bash
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 mkdir -p external
@@ -35,7 +35,7 @@ ln -sfn ~/D-Racer-Kit external/D-Racer-Kit
 **처음 시작하는 경우 (Case B)**
 
 ```bash
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 ./scripts/board_sync.sh --no-pull
@@ -67,7 +67,7 @@ ros2 launch inference auto_driving.launch.py
 ### 최초 1회 (이미지·Gazebo)
 
 ```bash
-git clone https://github.com/ahnsh03/2026-SMH.git
+git clone https://github.com/INHA-AIM/2026-SMH.git
 cd 2026-SMH
 chmod +x scripts/*.sh
 
